@@ -1,0 +1,27 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+body {
+  color: #484848;
+  font-family: 'Lato', sans-serif;
+  padding: .45em 2.65em 3em;
+  line-height: 1.5;
+}
+
+.header {
+  text-transform: uppercase;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.icon-credit {
+  display: none;
+}
+
+.btn-roll {
+  margin: 0 auto;
+  display: block;
+}
+
+.dice-result {
+  text-align: center;
+}
